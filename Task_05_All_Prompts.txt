@@ -1,0 +1,26 @@
+Q1 Games Played
+How many games did the Syracuse Women's Lacrosse team play this season?
+
+Q2 Top Scorer
+Who was the top scorer for Syracuse Women's Lacrosse this season?
+
+Q3 Player Summary
+Can you summarize the total goals, assists, and turnovers for each player this season?
+
+Q4 Most Improved
+Who was the most improved player on the Syracuse Women’s Lacrosse team this season?
+
+Q5 Strategy Focus
+As a coach, if I wanted to win two more games next season, should I focus on offense or defense?
+
+Use patterns in goals, assists, and turnovers to give an answer. Consider whether top-scoring players made the most difference or whether reducing turnovers could have improved outcomes.
+
+Q6 Game Changer
+Which one player should I train or develop to become a game changer next season?
+
+Consider players with decent performance across goals, assists, and low turnovers — or players showing signs of strong potential but needing development.
+
+Q7 Where Llm Fails
+
+I asked you to find the most improved player using a combination of goals, assists, and turnovers, but your answer doesn’t align with my manually calculated values. Here’s a CSV summary I generated — can you explain why your answer differs?
+
